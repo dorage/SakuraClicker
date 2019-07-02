@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 23a73de7b3ae7a34cb2eae39898f1979
+timeCreated: 1460124714
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Branches_0
+    21300002: Branches_1
+    21300004: Branches_2
+    21300006: Branches_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Branches_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 830
+        width: 576
+        height: 337
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: -36.5}
+        - {x: -58, y: -33.5}
+        - {x: -63, y: -24.5}
+        - {x: -95, y: -8.5}
+        - {x: -105, y: -8.5}
+        - {x: -128, y: -12.5}
+        - {x: -195, y: -2.5}
+        - {x: -241, y: 1.5}
+        - {x: -261, y: 8.5}
+        - {x: -278, y: 13.5}
+        - {x: -271, y: 11.5}
+        - {x: -236, y: 3.5}
+        - {x: -193, y: 0.5}
+        - {x: -166, y: -6.5}
+        - {x: -136, y: -9.5}
+        - {x: -124, y: -6.5}
+        - {x: -126, y: -1.5}
+        - {x: -128, y: 0.5}
+        - {x: -137, y: 1.5}
+        - {x: -195, y: 12.5}
+        - {x: -199, y: 13.5}
+        - {x: -184, y: 14.5}
+        - {x: -127, y: 0.5}
+        - {x: -117, y: -2.5}
+        - {x: -101, y: -7.5}
+        - {x: -54, y: -14.5}
+        - {x: -3, y: 1.5}
+        - {x: 0, y: 5.5}
+        - {x: 0, y: 12.5}
+        - {x: -11, y: 13.5}
+        - {x: -23, y: 18.5}
+        - {x: -32, y: 18.5}
+        - {x: -10, y: 31.5}
+        - {x: -10, y: 41.5}
+        - {x: -119, y: 118.5}
+        - {x: -130, y: 123.5}
+        - {x: -134, y: 123.5}
+        - {x: -150, y: 102.5}
+        - {x: -165, y: 70.5}
+        - {x: -194, y: 53.5}
+        - {x: -199, y: 47.5}
+        - {x: -273, y: 33.5}
+        - {x: -318, y: 35.5}
+        - {x: -277, y: 34.5}
+        - {x: -235, y: 41.5}
+        - {x: -199, y: 49.5}
+        - {x: -188, y: 56.5}
+        - {x: -184, y: 62.5}
+        - {x: -204, y: 77.5}
+        - {x: -242, y: 53.5}
+        - {x: -236, y: 57.5}
+        - {x: -233, y: 60.5}
+        - {x: -231, y: 72.5}
+        - {x: -238, y: 115.5}
+        - {x: -258, y: 113.5}
+        - {x: -310, y: 74.5}
+        - {x: -353, y: 59.5}
+        - {x: -390, y: 42.5}
+        - {x: -393, y: 41.5}
+        - {x: -347, y: 68.5}
+        - {x: -325, y: 73.5}
+        - {x: -250, y: 119.5}
+        - {x: -253, y: 131.5}
+        - {x: -256, y: 132.5}
+        - {x: -258, y: 132.5}
+        - {x: -279, y: 114.5}
+        - {x: -274, y: 119.5}
+        - {x: -260, y: 131.5}
+        - {x: -255, y: 152.5}
+        - {x: -292, y: 164.5}
+        - {x: -310, y: 168.5}
+        - {x: -328, y: 168.5}
+        - {x: -366, y: 161.5}
+        - {x: -470, y: 58.5}
+        - {x: -503, y: 8.5}
+        - {x: -576, y: -123.5}
+        - {x: -576, y: -168.5}
+        - {x: -455, y: -168.5}
+        - {x: -124, y: -63.5}
+        - {x: -137, y: -35.5}
+        - {x: -140, y: -33.5}
+        - {x: -150, y: -30.5}
+    - name: Branches_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 506
+        width: 559
+        height: 282
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -290, y: 141}
+        - {x: -286, y: 134}
+        - {x: -267, y: 124}
+        - {x: -311, y: 133}
+        - {x: -325, y: 119}
+        - {x: -307, y: 101}
+        - {x: -331, y: 106}
+        - {x: -332, y: 103}
+        - {x: -332, y: 100}
+        - {x: -328, y: 95}
+        - {x: -332, y: 100}
+        - {x: -339, y: 98}
+        - {x: -340, y: 91}
+        - {x: -355, y: 32}
+        - {x: -348, y: 28}
+        - {x: -339, y: 26}
+        - {x: -336, y: 24}
+        - {x: -379, y: 39}
+        - {x: -383, y: 38}
+        - {x: -390, y: 27}
+        - {x: -389, y: 21}
+        - {x: -386, y: 18}
+        - {x: -381, y: 16}
+        - {x: -378, y: 15}
+        - {x: -360, y: 12}
+        - {x: -305, y: 12}
+        - {x: -289, y: 14}
+        - {x: -306, y: 10}
+        - {x: -316, y: 0}
+        - {x: -381, y: 15}
+        - {x: -384, y: 17}
+        - {x: -409, y: 27}
+        - {x: -431, y: 57}
+        - {x: -448, y: 74}
+        - {x: -457, y: 73}
+        - {x: -434, y: 29}
+        - {x: -555, y: -17}
+        - {x: -559, y: -31}
+        - {x: -559, y: -57}
+        - {x: -496, y: -63}
+        - {x: -475, y: -54}
+        - {x: -459, y: -52}
+        - {x: -433, y: -39}
+        - {x: -431, y: -37}
+        - {x: -387, y: -20}
+        - {x: -435, y: -40}
+        - {x: -440, y: -44}
+        - {x: -440, y: -46}
+        - {x: -438, y: -50}
+        - {x: -430, y: -49}
+        - {x: -402, y: -43}
+        - {x: -365, y: -28}
+        - {x: -339, y: -24}
+        - {x: -308, y: -13}
+        - {x: -321, y: -18}
+        - {x: -357, y: -34}
+        - {x: -386, y: -37}
+        - {x: -430, y: -55}
+        - {x: -454, y: -53}
+        - {x: -467, y: -53}
+        - {x: -469, y: -55}
+        - {x: -471, y: -59}
+        - {x: -459, y: -63}
+        - {x: -496, y: -73}
+        - {x: -497, y: -81}
+        - {x: -497, y: -88}
+        - {x: -426, y: -88}
+        - {x: -267, y: -15}
+        - {x: -306, y: -36}
+        - {x: -348, y: -71}
+        - {x: -331, y: -83}
+        - {x: -99, y: -141}
+        - {x: 0, y: -141}
+        - {x: 0, y: -69}
+        - {x: -196, y: 141}
+    - name: Branches_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 121
+        width: 376
+        height: 211
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -364, y: 85.5}
+        - {x: -355, y: 83.5}
+        - {x: -341, y: 77.5}
+        - {x: -343, y: 74.5}
+        - {x: -333, y: 69.5}
+        - {x: -283, y: 55.5}
+        - {x: -285, y: 54.5}
+        - {x: -289, y: 49.5}
+        - {x: -317, y: 64.5}
+        - {x: -324, y: 63.5}
+        - {x: -347, y: 75.5}
+        - {x: -354, y: 82.5}
+        - {x: -376, y: 87.5}
+        - {x: -376, y: 48.5}
+        - {x: -140, y: -105.5}
+        - {x: 0, y: -105.5}
+        - {x: 0, y: -31.5}
+        - {x: -16, y: 50.5}
+        - {x: -229, y: 105.5}
+        - {x: -376, y: 105.5}
+        - {x: -376, y: 97.5}
+    - name: Branches_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 99
+        width: 220
+        height: 310
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 129}
+        - {x: -3, y: 130}
+        - {x: -8, y: 130}
+        - {x: -11, y: 127}
+        - {x: -13, y: 119}
+        - {x: -31, y: 101}
+        - {x: -38, y: 91}
+        - {x: -58, y: 76}
+        - {x: -63, y: 68}
+        - {x: -90, y: 51}
+        - {x: -94, y: 48}
+        - {x: -91, y: 50}
+        - {x: -53, y: 81}
+        - {x: -17, y: 116}
+        - {x: -11, y: 128}
+        - {x: -2, y: 135}
+        - {x: 0, y: 142}
+        - {x: 0, y: 155}
+        - {x: -7, y: 155}
+        - {x: -29, y: 128}
+        - {x: -50, y: 106}
+        - {x: -53, y: 99}
+        - {x: -53, y: 97}
+        - {x: -53, y: 99}
+        - {x: -56, y: 101}
+        - {x: -49, y: 107}
+        - {x: -43, y: 127}
+        - {x: -187, y: 40}
+        - {x: -220, y: -19}
+        - {x: -220, y: -155}
+        - {x: -201, y: -155}
+        - {x: -23, y: 65}
+        - {x: 0, y: 120}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

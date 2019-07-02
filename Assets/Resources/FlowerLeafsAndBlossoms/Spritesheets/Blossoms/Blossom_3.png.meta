@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: fbbaa99cec40743449f183dd86699945
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blossom_3_0
+    21300002: Blossom_3_1
+    21300004: Blossom_3_2
+    21300006: Blossom_3_3
+    21300008: Blossom_3_4
+    21300010: Blossom_3_5
+    21300012: Blossom_3_6
+    21300014: Blossom_3_7
+    21300016: Blossom_3_8
+    21300018: Blossom_3_9
+    21300020: Blossom_3_10
+    21300022: Blossom_3_11
+    21300024: Blossom_3_12
+    21300026: Blossom_3_13
+    21300028: Blossom_3_14
+    21300030: Blossom_3_15
+    21300032: Blossom_3_16
+    21300034: Blossom_3_17
+    21300036: Blossom_3_18
+    21300038: Blossom_3_19
+    21300040: Blossom_3_20
+    21300042: Blossom_3_21
+    21300044: Blossom_3_22
+    21300046: Blossom_3_23
+    21300048: Blossom_3_24
+    21300050: Blossom_3_25
+    21300052: Blossom_3_26
+    21300054: Blossom_3_27
+    21300056: Blossom_3_28
+    21300058: Blossom_3_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blossom_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 23}
+        - {x: -32, y: -8}
+        - {x: -29, y: -11}
+        - {x: -28, y: -11}
+        - {x: -16, y: -17}
+        - {x: -13, y: -18}
+        - {x: 10, y: -17}
+        - {x: 38, y: -15}
+        - {x: 43, y: -1}
+        - {x: 43, y: 23}
+    - name: Blossom_3_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 22}
+        - {x: 21, y: 23}
+        - {x: -5, y: 23}
+        - {x: -29, y: 18}
+        - {x: -32, y: 11}
+        - {x: -32, y: 8}
+        - {x: -29, y: 5}
+        - {x: -25, y: 5}
+        - {x: -24, y: 6}
+        - {x: -22, y: 6}
+        - {x: -24, y: 6}
+        - {x: -29, y: 2}
+        - {x: -32, y: -14}
+        - {x: -16, y: -19}
+        - {x: 17, y: -19}
+        - {x: 40, y: -11}
+        - {x: 43, y: -6}
+        - {x: 43, y: 9}
+        - {x: 37, y: 19}
+    - name: Blossom_3_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 10}
+        - {x: -36, y: -18}
+        - {x: 28, y: -18}
+        - {x: 44, y: -4}
+        - {x: 44, y: 11}
+        - {x: 37, y: 19}
+        - {x: 14, y: 24}
+        - {x: -11, y: 24}
+        - {x: -30, y: 19}
+    - name: Blossom_3_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 24}
+        - {x: -5, y: 24}
+        - {x: -36, y: 13}
+        - {x: -40, y: 9}
+        - {x: -40, y: -6}
+        - {x: -28, y: -19}
+        - {x: 25, y: -19}
+        - {x: 35, y: -13}
+        - {x: 44, y: -3}
+        - {x: 44, y: 10}
+    - name: Blossom_3_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 250
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 21}
+        - {x: 26, y: 24}
+        - {x: -15, y: 24}
+        - {x: -42, y: 9}
+        - {x: -42, y: -1}
+        - {x: -40, y: -3}
+        - {x: -17, y: -21}
+        - {x: -10, y: -21}
+        - {x: 9, y: -13}
+        - {x: 38, y: -20}
+        - {x: 42, y: -4}
+        - {x: 42, y: 10}
+    - name: Blossom_3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -32, y: 22}
+        - {x: -45, y: 2}
+        - {x: -45, y: -7}
+        - {x: -40, y: -8}
+        - {x: -12, y: -22}
+        - {x: 14, y: -22}
+        - {x: 45, y: -14}
+        - {x: 45, y: 16}
+        - {x: 41, y: 24}
+    - name: Blossom_3_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -40, y: 11}
+        - {x: -45, y: -1}
+        - {x: -45, y: -12}
+        - {x: -44, y: -13}
+        - {x: -1, y: -22}
+        - {x: 7, y: -22}
+        - {x: 48, y: -9}
+        - {x: 48, y: 21}
+        - {x: 42, y: 24}
+    - name: Blossom_3_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -11, y: 23}
+        - {x: -37, y: 12}
+        - {x: -43, y: -2}
+        - {x: -43, y: -16}
+        - {x: -36, y: -16}
+        - {x: -19, y: -22}
+        - {x: 22, y: -22}
+        - {x: 48, y: -8}
+        - {x: 48, y: 10}
+        - {x: 43, y: 20}
+        - {x: 26, y: 24}
+    - name: Blossom_3_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -21}
+        - {x: 22, y: -21}
+        - {x: 47, y: -1}
+        - {x: 47, y: 17}
+        - {x: 40, y: 25}
+        - {x: -23, y: 25}
+        - {x: -39, y: 5}
+    - name: Blossom_3_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 25}
+        - {x: -18, y: 25}
+        - {x: -36, y: 15}
+        - {x: -36, y: -22}
+        - {x: 40, y: -22}
+        - {x: 44, y: -2}
+        - {x: 44, y: 9}
+        - {x: 41, y: 17}
+    - name: Blossom_3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 25}
+        - {x: -37, y: 2}
+        - {x: -37, y: -25}
+        - {x: 41, y: -25}
+        - {x: 41, y: 20}
+        - {x: 38, y: 25}
+    - name: Blossom_3_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25}
+        - {x: -36, y: 22}
+        - {x: -36, y: -17}
+        - {x: -31, y: -25}
+        - {x: 36, y: -25}
+        - {x: 36, y: 25}
+    - name: Blossom_3_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 25}
+        - {x: -35, y: -15}
+        - {x: -17, y: -25}
+        - {x: 19, y: -25}
+        - {x: 33, y: -17}
+        - {x: 33, y: 25}
+    - name: Blossom_3_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 25}
+        - {x: -25, y: 25}
+        - {x: -40, y: 21}
+        - {x: -40, y: -14}
+        - {x: -3, y: -25}
+        - {x: 25, y: -25}
+        - {x: 33, y: -14}
+        - {x: 33, y: 12}
+        - {x: 31, y: 22}
+    - name: Blossom_3_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -43, y: 14}
+        - {x: -43, y: 6}
+        - {x: -42, y: 4}
+        - {x: -17, y: -22}
+        - {x: 35, y: -22}
+        - {x: 35, y: 11}
+        - {x: 26, y: 25}
+    - name: Blossom_3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 25}
+        - {x: -46, y: 9}
+        - {x: -46, y: 3}
+        - {x: -42, y: -3}
+        - {x: -12, y: -19}
+        - {x: 40, y: -19}
+        - {x: 40, y: 18}
+        - {x: 26, y: 25}
+    - name: Blossom_3_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 25}
+        - {x: -46, y: 14}
+        - {x: -46, y: -17}
+        - {x: 44, y: -17}
+        - {x: 44, y: 3}
+        - {x: 24, y: 25}
+    - name: Blossom_3_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 25}
+        - {x: -24, y: 25}
+        - {x: -31, y: 24}
+        - {x: -45, y: 8}
+        - {x: -45, y: -7}
+        - {x: -28, y: -17}
+        - {x: 31, y: -17}
+        - {x: 46, y: -13}
+        - {x: 47, y: -13}
+        - {x: 47, y: -1}
+        - {x: 38, y: 17}
+    - name: Blossom_3_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 25}
+        - {x: -41, y: 22}
+        - {x: -41, y: -12}
+        - {x: -29, y: -18}
+        - {x: 24, y: -18}
+        - {x: 47, y: -10}
+        - {x: 47, y: 13}
+        - {x: 25, y: 25}
+    - name: Blossom_3_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 6}
+        - {x: 42, y: 13}
+        - {x: 18, y: 25}
+        - {x: -30, y: 25}
+        - {x: -40, y: 17}
+        - {x: -40, y: -2}
+        - {x: -31, y: -8}
+        - {x: -21, y: -8}
+        - {x: -6, y: -19}
+        - {x: -2, y: -19}
+        - {x: 5, y: -14}
+        - {x: 26, y: -16}
+        - {x: 30, y: -12}
+        - {x: 44, y: -4}
+    - name: Blossom_3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 25}
+        - {x: -22, y: 25}
+        - {x: -29, y: 24}
+        - {x: -42, y: 14}
+        - {x: -42, y: -18}
+        - {x: -32, y: -19}
+        - {x: 39, y: -19}
+        - {x: 42, y: -7}
+        - {x: 42, y: 11}
+        - {x: 23, y: 20}
+    - name: Blossom_3_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 24}
+        - {x: -42, y: 20}
+        - {x: -42, y: -4}
+        - {x: -39, y: -6}
+        - {x: -38, y: -6}
+        - {x: -12, y: -19}
+        - {x: 7, y: -19}
+        - {x: 38, y: -10}
+        - {x: 38, y: 10}
+        - {x: 18, y: 24}
+    - name: Blossom_3_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24}
+        - {x: -37, y: 24}
+        - {x: -40, y: 22}
+        - {x: -40, y: -16}
+        - {x: -33, y: -19}
+        - {x: 15, y: -19}
+        - {x: 35, y: -7}
+        - {x: 38, y: -3}
+        - {x: 38, y: 19}
+    - name: Blossom_3_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 15}
+        - {x: -43, y: -7}
+        - {x: -27, y: -19}
+        - {x: 27, y: -19}
+        - {x: 38, y: -12}
+        - {x: 38, y: 8}
+        - {x: 28, y: 21}
+        - {x: 13, y: 24}
+        - {x: -16, y: 24}
+        - {x: -39, y: 19}
+    - name: Blossom_3_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 50
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 24}
+        - {x: -45, y: 10}
+        - {x: -45, y: -2}
+        - {x: -25, y: -17}
+        - {x: -16, y: -19}
+        - {x: 11, y: -19}
+        - {x: 36, y: -10}
+        - {x: 36, y: 8}
+        - {x: 16, y: 24}
+    - name: Blossom_3_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -19}
+        - {x: 25, y: -19}
+        - {x: 40, y: -15}
+        - {x: 40, y: 11}
+        - {x: 29, y: 24}
+        - {x: -35, y: 24}
+        - {x: -45, y: 20}
+        - {x: -45, y: -7}
+    - name: Blossom_3_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -10}
+        - {x: -25, y: -19}
+        - {x: 24, y: -19}
+        - {x: 45, y: -5}
+        - {x: 45, y: 8}
+        - {x: 13, y: 24}
+        - {x: -27, y: 24}
+        - {x: -40, y: 23}
+        - {x: -46, y: 13}
+    - name: Blossom_3_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 24}
+        - {x: -30, y: 24}
+        - {x: -42, y: 17}
+        - {x: -42, y: -10}
+        - {x: -9, y: -18}
+        - {x: 24, y: -18}
+        - {x: 47, y: -1}
+        - {x: 48, y: 0}
+        - {x: 48, y: 10}
+    - name: Blossom_3_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -37, y: 12}
+        - {x: -37, y: -14}
+        - {x: -35, y: -16}
+        - {x: -24, y: -17}
+        - {x: 28, y: -17}
+        - {x: 48, y: -1}
+        - {x: 48, y: 17}
+        - {x: 36, y: 23}
+    - name: Blossom_3_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -17}
+        - {x: 39, y: -17}
+        - {x: 46, y: -14}
+        - {x: 46, y: 21}
+        - {x: 44, y: 22}
+        - {x: 34, y: 23}
+        - {x: -25, y: 23}
+        - {x: -31, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

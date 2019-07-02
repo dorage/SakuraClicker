@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: e9281b6508522144482589fc671daf46
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RoseLeaf_2_0
+    21300002: RoseLeaf_2_1
+    21300004: RoseLeaf_2_2
+    21300006: RoseLeaf_2_3
+    21300008: RoseLeaf_2_4
+    21300010: RoseLeaf_2_5
+    21300012: RoseLeaf_2_6
+    21300014: RoseLeaf_2_7
+    21300016: RoseLeaf_2_8
+    21300018: RoseLeaf_2_9
+    21300020: RoseLeaf_2_10
+    21300022: RoseLeaf_2_11
+    21300024: RoseLeaf_2_12
+    21300026: RoseLeaf_2_13
+    21300028: RoseLeaf_2_14
+    21300030: RoseLeaf_2_15
+    21300032: RoseLeaf_2_16
+    21300034: RoseLeaf_2_17
+    21300036: RoseLeaf_2_18
+    21300038: RoseLeaf_2_19
+    21300040: RoseLeaf_2_20
+    21300042: RoseLeaf_2_21
+    21300044: RoseLeaf_2_22
+    21300046: RoseLeaf_2_23
+    21300048: RoseLeaf_2_24
+    21300050: RoseLeaf_2_25
+    21300052: RoseLeaf_2_26
+    21300054: RoseLeaf_2_27
+    21300056: RoseLeaf_2_28
+    21300058: RoseLeaf_2_29
+    21300060: RoseLeaf_2_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RoseLeaf_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -6, y: 20}
+        - {x: -16, y: 10}
+        - {x: -16, y: -5}
+        - {x: -15, y: -8}
+        - {x: -7, y: -16}
+        - {x: -2, y: -20}
+        - {x: 7, y: -20}
+        - {x: 16, y: -12}
+        - {x: 16, y: 13}
+        - {x: 10, y: 19}
+    - name: RoseLeaf_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -11, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: -15}
+        - {x: -6, y: -19}
+        - {x: 13, y: -19}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+    - name: RoseLeaf_2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -7}
+        - {x: -12, y: -17}
+        - {x: 7, y: -17}
+        - {x: 16, y: -14}
+        - {x: 16, y: 13}
+        - {x: 8, y: 20}
+    - name: RoseLeaf_2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -16, y: 11}
+        - {x: -16, y: -10}
+        - {x: -5, y: -15}
+        - {x: 16, y: -15}
+        - {x: 16, y: 15}
+        - {x: 14, y: 20}
+    - name: RoseLeaf_2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -9, y: 18}
+        - {x: -16, y: 13}
+        - {x: -16, y: -7}
+        - {x: -14, y: -12}
+        - {x: 15, y: -12}
+        - {x: 16, y: -10}
+        - {x: 16, y: 14}
+        - {x: 8, y: 19}
+    - name: RoseLeaf_2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 14}
+        - {x: 14, y: 16}
+    - name: RoseLeaf_2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 13}
+        - {x: -16, y: 7}
+        - {x: -16, y: -7}
+        - {x: -12, y: -10}
+        - {x: 7, y: -10}
+        - {x: 16, y: -5}
+        - {x: 16, y: 13}
+    - name: RoseLeaf_2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 10}
+        - {x: -14, y: 7}
+        - {x: -16, y: 3}
+        - {x: -16, y: -9}
+        - {x: -14, y: -10}
+        - {x: 5, y: -10}
+        - {x: 16, y: -6}
+        - {x: 16, y: 9}
+        - {x: 15, y: 10}
+    - name: RoseLeaf_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 1}
+        - {x: -16, y: -9}
+        - {x: -14, y: -10}
+        - {x: 7, y: -10}
+        - {x: 16, y: -3}
+        - {x: 16, y: 6}
+        - {x: -2, y: 6}
+        - {x: -13, y: 5}
+    - name: RoseLeaf_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -16, y: -3}
+        - {x: -16, y: -10}
+        - {x: -15, y: -11}
+        - {x: 4, y: -11}
+        - {x: 16, y: -7}
+        - {x: 16, y: 7}
+        - {x: 11, y: 8}
+    - name: RoseLeaf_2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -16, y: -4}
+        - {x: -16, y: -14}
+        - {x: 13, y: -14}
+        - {x: 16, y: -8}
+        - {x: 16, y: 8}
+        - {x: 15, y: 11}
+    - name: RoseLeaf_2_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -15, y: -2}
+        - {x: -15, y: -13}
+        - {x: -10, y: -17}
+        - {x: -1, y: -17}
+        - {x: 6, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 7}
+        - {x: 8, y: 14}
+    - name: RoseLeaf_2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -14, y: 1}
+        - {x: -14, y: -17}
+        - {x: -10, y: -19}
+        - {x: 10, y: -19}
+        - {x: 16, y: -11}
+        - {x: 16, y: 12}
+        - {x: 9, y: 16}
+    - name: RoseLeaf_2_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -10, y: 16}
+        - {x: -14, y: 4}
+        - {x: -14, y: -20}
+        - {x: 14, y: -20}
+        - {x: 16, y: -18}
+        - {x: 16, y: 14}
+        - {x: 14, y: 19}
+    - name: RoseLeaf_2_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 20}
+        - {x: -7, y: 18}
+        - {x: -13, y: 8}
+        - {x: -13, y: -14}
+        - {x: -11, y: -20}
+        - {x: 9, y: -20}
+        - {x: 16, y: -12}
+        - {x: 16, y: 10}
+        - {x: 9, y: 20}
+    - name: RoseLeaf_2_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -13, y: 10}
+        - {x: -13, y: -16}
+        - {x: -8, y: -20}
+        - {x: 15, y: -20}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 9, y: 20}
+    - name: RoseLeaf_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -13, y: 7}
+        - {x: -13, y: -6}
+        - {x: -10, y: -16}
+        - {x: -6, y: -20}
+        - {x: 11, y: -20}
+        - {x: 16, y: -18}
+        - {x: 16, y: 16}
+        - {x: 8, y: 20}
+    - name: RoseLeaf_2_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -9, y: 20}
+        - {x: -13, y: 10}
+        - {x: -13, y: -13}
+        - {x: -10, y: -17}
+        - {x: -3, y: -18}
+        - {x: 15, y: -18}
+        - {x: 16, y: -15}
+        - {x: 16, y: 12}
+        - {x: 15, y: 17}
+    - name: RoseLeaf_2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -13, y: 11}
+        - {x: -13, y: -8}
+        - {x: -6, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 9}
+        - {x: 5, y: 20}
+    - name: RoseLeaf_2_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -13, y: 16}
+        - {x: -13, y: -8}
+        - {x: -9, y: -11}
+        - {x: 3, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 8}
+        - {x: 4, y: 18}
+    - name: RoseLeaf_2_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -12, y: 14}
+        - {x: -13, y: 13}
+        - {x: -13, y: -3}
+        - {x: -11, y: -11}
+        - {x: -2, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: 9}
+        - {x: 15, y: 10}
+    - name: RoseLeaf_2_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -2}
+        - {x: -4, y: -9}
+        - {x: 16, y: -9}
+        - {x: 16, y: 9}
+        - {x: 7, y: 10}
+        - {x: -13, y: 10}
+        - {x: -14, y: 9}
+    - name: RoseLeaf_2_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 9}
+        - {x: -14, y: 1}
+        - {x: -13, y: -5}
+        - {x: 1, y: -7}
+        - {x: 13, y: -7}
+        - {x: 16, y: -6}
+        - {x: 16, y: 7}
+        - {x: 7, y: 9}
+    - name: RoseLeaf_2_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 9}
+        - {x: -15, y: 7}
+        - {x: -15, y: -3}
+        - {x: -11, y: -8}
+        - {x: 7, y: -8}
+        - {x: 16, y: -6}
+        - {x: 16, y: 3}
+        - {x: 6, y: 9}
+    - name: RoseLeaf_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -1}
+        - {x: -12, y: -12}
+        - {x: -10, y: -13}
+        - {x: 6, y: -13}
+        - {x: 16, y: -9}
+        - {x: 16, y: 5}
+        - {x: 13, y: 10}
+        - {x: -11, y: 10}
+        - {x: -15, y: 7}
+    - name: RoseLeaf_2_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 11}
+        - {x: -15, y: 5}
+        - {x: -15, y: -7}
+        - {x: -10, y: -17}
+        - {x: 6, y: -17}
+        - {x: 16, y: -10}
+        - {x: 16, y: 7}
+        - {x: 14, y: 11}
+    - name: RoseLeaf_2_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -13, y: 10}
+        - {x: -15, y: 5}
+        - {x: -15, y: -10}
+        - {x: -8, y: -20}
+        - {x: 6, y: -20}
+        - {x: 15, y: -15}
+        - {x: 16, y: -11}
+        - {x: 16, y: 8}
+        - {x: 11, y: 12}
+    - name: RoseLeaf_2_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -10}
+        - {x: -9, y: -20}
+        - {x: 11, y: -20}
+        - {x: 16, y: -10}
+        - {x: 16, y: 15}
+    - name: RoseLeaf_2_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -12, y: -20}
+        - {x: 14, y: -20}
+        - {x: 16, y: -19}
+        - {x: 16, y: 11}
+        - {x: 14, y: 17}
+        - {x: -14, y: 17}
+        - {x: -16, y: 9}
+    - name: RoseLeaf_2_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -16, y: 15}
+        - {x: -16, y: -7}
+        - {x: -11, y: -20}
+        - {x: 8, y: -20}
+        - {x: 16, y: -11}
+        - {x: 16, y: 15}
+        - {x: 9, y: 18}
+    - name: RoseLeaf_2_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -6, y: 20}
+        - {x: -16, y: 10}
+        - {x: -16, y: -5}
+        - {x: -15, y: -8}
+        - {x: -7, y: -16}
+        - {x: -2, y: -20}
+        - {x: 7, y: -20}
+        - {x: 16, y: -12}
+        - {x: 16, y: 13}
+        - {x: 10, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
